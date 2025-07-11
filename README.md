@@ -28,8 +28,6 @@ The RTFM Client can be installed on **Windows** or **Linux** using the provided 
 4. **Finish installation**:
    Click **Finish** when the setup is complete.
 
-	![RTFM Overview](./media/Install2.png)
-
 5. **Launch the Client**:
    Use the Start Menu or desktop shortcut to open RTFM Client.
 	
