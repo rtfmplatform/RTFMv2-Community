@@ -1,14 +1,20 @@
 ## 🔍 **RTFM Client – Penetration Testing, Streamlined**
+![RTFM Overview](./logo.png)
+
+**Download**: https://github.com/rtfmplatform/RTFMv2-Community/releases
+
+![RTFM Overview](./demo.gif)
 
 **RTFM Client** is a powerful, cross-platform desktop application designed for professional penetration testers and red teams. It brings together automation, AI, and structured workflows to simplify complex assessments and accelerate your path to actionable results.
+![RTFM Overview](./Client1.png)
 
 ---
 
 ### ⚙️ **Session-Centric Workflow**
 Manage every phase of your engagement in a unified, session-based workspace:
-- **Create and manage sessions** with host details, operating system info, and notes
-- **Directory and wordlist management** for loot, exploits, reports, and recon tools
-- **Persistent local storage** of all your actions, commands, findings, and notes
+- Create and manage sessions with host details, operating system info, and notes
+- Directory and wordlist management for loot, exploits, reports, and recon tools
+- Persistent local storage of all your actions, commands, findings, and notes
 
 ---
 
@@ -84,8 +90,7 @@ RTFM Client adapts to your workflow:
 
 ---
 
-Want to **standardize your workflow**, **speed up engagements**, and **make your findings more actionable**?
-**RTFM Client** isn’t just a tool—it’s your pentesting command center.
+![RTFM Overview](./demo4.png)
 
 # 📦 RTFM Client Installation
 
@@ -103,7 +108,7 @@ The RTFM Client can be installed on **Windows** or **Linux** using the provided 
 ### Steps
 
 1. **Download the installer**:
-   Get the latest version of the RTFM Client installer from the [official website](https://github.com/rtfmplatform) or distribution source.
+   Get the latest version of the RTFM Client installer from https://github.com/rtfmplatform/RTFMv2-Community/releases.
 
 2. **Run the installer**:
    Double-click `RTFMv2 Installer Commercial.exe` to begin installation.
@@ -133,18 +138,18 @@ Note: You will need to run as Administrator because some common tools like Nmap 
 ### Steps
 
 1. **Download the `.deb` package**:
-	From the [official site](https://github.com/rtfmplatform) or distribution source.
+	From https://github.com/rtfmplatform/RTFMv2-Community/releases.
 
 2. **Install the package**:
 
 	```
 	sudo dpkg -i ./RTFM_1.0.0.deb 
 	```
-   
+   ![RTFM Overview](./Install4.png)
    
 3. **Run the client**:
 
 	```
 	sudo RTFM_v2.Desktop
 	```
-
+	![RTFM Overview](./Install5.png)
