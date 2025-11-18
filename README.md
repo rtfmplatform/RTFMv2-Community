@@ -66,17 +66,9 @@ Automatically associate evidence with each session:
 
 ---
 
-### **CVE + Embedding Search (Advanced Mode)**
-Get deeper insights into vulnerabilities:
-- Leverages PostgreSQL + pgvector for fast CVE similarity search
-- Supports large-scale vulnerability databases with semantic querying
-- Integrates with local embeddings and your own CVE datasets
-
----
-
 ### **Built for Security Professionals**
 Designed from the ground up for pentesters:
-- Works **offline and cross-platform** (Linux, Windows, macOS)
+- Works **offline and cross-platform** (Linux, Windows)
 - Seamlessly integrates with Git, SQLite, and Postgres
 - No forced cloud — keep your tools and data local and under your control
 
