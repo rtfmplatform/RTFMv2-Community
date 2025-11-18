@@ -1,16 +1,16 @@
 ## 🔍 **RTFM Client – Penetration Testing, Streamlined**
-![RTFM Overview](./logo.png)
+![RTFM Overview](./media/logo.png)
 
 **Download**: https://github.com/rtfmplatform/RTFMv2-Community/releases
 
-![RTFM Overview](./demo.gif)
+![RTFM Overview](./media/demo.gif)
 
 **RTFM Client** is a powerful, cross-platform desktop application designed for professional penetration testers and red teams. It brings together automation, AI, and structured workflows to simplify complex assessments and accelerate your path to actionable results.
-![RTFM Overview](./Client1.png)
+![RTFM Overview](./media/Client1.png)
 
 ---
 
-### ⚙️ **Session-Centric Workflow**
+### **Session-Centric Workflow**
 Manage every phase of your engagement in a unified, session-based workspace:
 - Create and manage sessions with host details, operating system info, and notes
 - Directory and wordlist management for loot, exploits, reports, and recon tools
@@ -18,7 +18,7 @@ Manage every phase of your engagement in a unified, session-based workspace:
 
 ---
 
-### ✅ **Interactive Checklists**
+### **Interactive Checklists**
 Standardize and track your methodology with built-in checklists:
 - Organized steps with commands, code blocks, and documentation
 - Mark items as **Done**, **Not Applicable**, or **Pending**
@@ -26,7 +26,7 @@ Standardize and track your methodology with built-in checklists:
 
 ---
 
-### 🧠 **AI Assistant Integration**
+### **AI Assistant Integration**
 Leverage AI to assist with analysis, documentation, and research:
 - Chat-style interface for AI interaction
 - Log viewer with full query and response history
@@ -34,7 +34,7 @@ Leverage AI to assist with analysis, documentation, and research:
 
 ---
 
-### 💻 **Command Execution & Console**
+### **Command Execution & Console**
 Run commands across systems with real-time output and history:
 - Built-in terminal emulator with output capture
 - Supports **Windows and Linux commands**
@@ -42,7 +42,7 @@ Run commands across systems with real-time output and history:
 
 ---
 
-### 🧰 **Tool Launcher with Smart Templates**
+### **Tool Launcher with Smart Templates**
 Execute tools the right way—every time:
 - JSON-driven tool catalog with descriptions and examples
 - Auto-generates input fields for command arguments
@@ -50,7 +50,7 @@ Execute tools the right way—every time:
 
 ---
 
-### 🔗 **Live Integration with Node-RED**
+### **Live Integration with Node-RED**
 Turn pentesting into automation:
 - Use drag-and-drop nodes to chain commands, trigger scans, or share findings
 - Native RTFM Command Nodes for **Windows**, **Linux**, and **custom tools**
@@ -58,7 +58,7 @@ Turn pentesting into automation:
 
 ---
 
-### 🗂️ **Built-in Asset and Finding Management**
+### **Built-in Asset and Finding Management**
 Automatically associate evidence with each session:
 - Track services, user accounts, HTTP files, exploits, and CVE data
 - View AI logs, commands, and notes in structured detail
@@ -66,7 +66,7 @@ Automatically associate evidence with each session:
 
 ---
 
-### 🔎 **CVE + Embedding Search (Advanced Mode)**
+### **CVE + Embedding Search (Advanced Mode)**
 Get deeper insights into vulnerabilities:
 - Leverages PostgreSQL + pgvector for fast CVE similarity search
 - Supports large-scale vulnerability databases with semantic querying
@@ -74,7 +74,7 @@ Get deeper insights into vulnerabilities:
 
 ---
 
-### 🔒 **Built for Security Professionals**
+### **Built for Security Professionals**
 Designed from the ground up for pentesters:
 - Works **offline and cross-platform** (Linux, Windows, macOS)
 - Seamlessly integrates with Git, SQLite, and Postgres
@@ -82,7 +82,7 @@ Designed from the ground up for pentesters:
 
 ---
 
-### 🧩 **Customizable and Extensible**
+### **Customizable and Extensible**
 RTFM Client adapts to your workflow:
 - Extend with new tools, checklists, and commands via simple JSON files
 - Customize UI components or behaviors using Avalonia (C#)
@@ -90,9 +90,9 @@ RTFM Client adapts to your workflow:
 
 ---
 
-![RTFM Overview](./demo4.png)
+![RTFM Overview](./media/demo4.png)
 
-# 📦 RTFM Client Installation
+# RTFM Client Installation
 
 The RTFM Client can be installed on **Windows** or **Linux** using the provided installers. Choose the appropriate instructions for your operating system below.
 
@@ -129,7 +129,7 @@ Note: You will need to run as Administrator because some common tools like Nmap 
 
 ---
 
-## 🐧 Linux Installation (DEB)
+## Linux Installation (DEB)
 
 ### Prerequisites
 
@@ -143,13 +143,13 @@ Note: You will need to run as Administrator because some common tools like Nmap 
 2. **Install the package**:
 
 	```
-	sudo dpkg -i ./RTFM_1.0.0.deb 
+	dpkg -i ./RTFM_VERSION.deb 
 	```
-   ![RTFM Overview](./Install4.png)
+   ![RTFM Overview](./media/Install4.png)
    
 3. **Run the client**:
 
 	```
-	sudo RTFM_v2.Desktop
+	sudo rtfm
 	```
-	![RTFM Overview](./Install5.png)
+	![RTFM Overview](./media/Install5.png)
