@@ -1,4 +1,8 @@
 ## 🔍 **RTFM Client – Penetration Testing, Streamlined**
+
+* https://www.youtube.com/@GreyProtocolSecurity
+* https://www.greyprotocolsecurity.com/
+
 ![RTFM Overview](./media/logo.png)
 
 **Download**: https://github.com/rtfmplatform/RTFMv2-Community/releases
